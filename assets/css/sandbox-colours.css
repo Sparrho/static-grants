@@ -1,0 +1,20 @@
+border
+#613c97; /* changed from #47D3E5 */
+#784fb5; /* changed from #47D3E5 */
+#976dd6; /* changed from #47D3E5 */
+
+#613c97 !important; /* changed from #000 */
+
+#613c97 !important; /* changed from #47D3E5 */
+
+
+special text
+color: #ffffff !important; /* changed from #000 */
+
+
+.button.special:hover {
+					background-color: #784fb5 !important; /* changed from #47D3E5 */
+				}
+
+.button.special:active {
+					background-color: #976dd6; /* changed from #1ebdd1 */
